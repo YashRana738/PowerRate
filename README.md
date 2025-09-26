@@ -14,8 +14,7 @@ PowerRate operates in the background and leverages Windows' Task Scheduler to mo
 ---
 
 ## 💡 Personal Tip: Lock/Sign-in Screen Refresh Rate
-
-> 🗨️ **Personal Opinion:**  
+ 
 > If you want to control the refresh rate for the sign-in screen (not just the lock screen), you should manually set your desired refresh rate in Windows display settings.  
 > For example, I personally prefer to keep it at **60Hz** for the sign-in screen to save battery, since the lock/sign-in screens don’t require high performance.  
 > **Windows will always use the manually set refresh rate for the sign-in screen** (before you log in), regardless of what PowerRate sets after you sign in.  
