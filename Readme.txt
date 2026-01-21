@@ -17,4 +17,4 @@ This project automatically changes your display refresh rate (highest or lowest)
 That's it!
 
 ##To Compile Code use PyInstaller
-pyinstaller --onefile --noconsole "your_file.py"
+pyinstaller --noconsole "Rate_switcher.py"
